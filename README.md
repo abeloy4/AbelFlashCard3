@@ -4,7 +4,7 @@ Flashcard app with question and answer.
 
 ### App Walk-though
 
-<img src="flash3.gif" width=200><br>
+<img src="Newflash3.gif" width=200><br>
 
 ## Required
 - [x] User can create a card and still see their created card when the app is relaunched.
