@@ -1,6 +1,6 @@
 ## Lab 3
 ### App Description
-Flashcard app with question and answer.
+Flashcard app with questions and answers.
 
 ### App Walk-though
 
